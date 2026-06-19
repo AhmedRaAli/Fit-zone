@@ -158,47 +158,8 @@ body {
   font-size: 1.1rem;
 }
  
- 
-/* ═══════════════════════════════
-   STATS
-═══════════════════════════════ */
-.fz-stats {
-  background: var(--dark);
-  border-bottom: 3px solid var(--red);
-}
- 
-.fz-stat-card {
-  padding: 20px 10px;
-}
- 
-.fz-stat-num {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: 3.2rem;
-  color: var(--white);
-  display: block;
-  line-height: 1;
-}
- 
-.fz-stat-label {
-  color: rgba(255,255,255,.55);
-  font-size: .85rem;
-  text-transform: uppercase;
-  letter-spacing: .1em;
-  margin-top: 6px;
-  margin-bottom: 0;
-}
- 
- 
-/* ═══════════════════════════════
-   SECTION WRAPPER
-═══════════════════════════════ */
-.fz-section { background-color: var(--light); }
- 
-.fz-dark-section { background-color: var(--dark-2); }
- 
-.fz-pricing-section { background-color: var(--dark-3); }
- 
- 
+
+
 /* ═══════════════════════════════
    PROGRAM CARDS
 ═══════════════════════════════ */
