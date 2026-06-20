@@ -159,6 +159,14 @@ body {
 }
  
 
+/* ═══════════════════════════════
+   SECTION WRAPPER
+═══════════════════════════════ */
+.fz-section { background-color: var(--light); }
+ 
+.fz-dark-section { background-color: var(--dark-2); }
+ 
+.fz-pricing-section { background-color: var(--dark-3); }
 
 /* ═══════════════════════════════
    PROGRAM CARDS
